@@ -1,5 +1,5 @@
 <div align="center">
-<img width="605" height="128" alt="LOGO" src="https://github.com/user-attachments/assets/6ff06cb5-f5da-4c7b-acab-ff08a010f3cd" />
+<img width="1772" height="629" alt="你的段落文字" src="https://github.com/user-attachments/assets/e3f503d8-ec56-4b7b-82cf-92f2a9b6ed35" />
 </div>
 
 <div align="center">
